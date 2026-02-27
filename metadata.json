@@ -1,0 +1,17 @@
+{
+    "title": "Programming: Patterns in Programming",
+    "slug": "programming-patterns-introduction",
+    "description": "Introduces programming patterns as reusable solution structures and explains when using a recognised pattern is helpful.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming"
+    ],
+    "duration": 1,
+    "prerequisites": [
+    ],
+    "related": [
+        "programming-accumulator-pattern"
+    ]
+}
