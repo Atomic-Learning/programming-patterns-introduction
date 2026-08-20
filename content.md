@@ -7,4 +7,4 @@ Patterns are not fixed programs. They are templates you adapt to different data 
 
 * They reduce the need for reinventing the wheel by allowing reuse of proven structures.
 * They make code easier to read because the structure is familiar to the reader.
-* They support problem-solving by higher-level steps that can be combined to complte a task.
+* They support problem-solving by higher-level steps that can be combined to complete a task.
